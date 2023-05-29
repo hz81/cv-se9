@@ -1,0 +1,235 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+headermenu:
+    cover-letter: https://1drv.ms/w/s!AvF_WyEroz-p0bINSTc1rABFRMXrpw?e=3WEILo
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    qualifications: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Herry Zhouldy
+    tagline: Technical Analyst
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: zould1618@gmail.com
+    phone: +6422 496 9030
+    address: 8 Rachel Place, Avonhead, Christchurch
+    youtube: Video CV
+    youtube-link: https://youtu.be/oiPoiaduO7o
+    linkedin: zould1618
+    linkedin-link: https://id.linkedin.com/in/zould1618
+    github: hz81
+    github-link: https://github.com/hz81
+    website: Herry's CV
+    website-link: https://se9.hzy10.com
+    download-pdf: https://1drv.ms/w/s!AvF_WyEroz-p0bIMTDBGTC1hVS7a-w?e=PxXTtO
+
+    characters:
+      title: Characters
+      info:
+        - item: Self-determined and motivated achiever; Result driven
+        - item: High initiative and proactive; Positive can-do attitude
+        - item: Love to contribute; Excellent team player
+        - item: Passionate to learn new things; Easy to adapt person
+        - item: Keen to find solutions; Problem-solving oriented
+        - item: Well organized person; Attention do detail
+        - item: Friendly and attentive listener
+
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Professional
+
+        - idiom: Bahasa
+          level: Native
+
+    interests:
+      title: Interests
+      info:
+        - item: Reading
+          link:
+
+        - item: Hiking
+          link:
+
+        - item: Cycling
+          link:
+
+        - item: Swimming
+          link:          
+
+qualifications:
+    title: Qualifications
+    info:
+      - degree: Master in Information Systems Management
+        university: Binus University of Jakarta
+        time: 2020 - 2022
+        gpa: "GPA: 3.97"
+        site: https://graduate.binus.ac.id
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: Bachelor in Computerized Accounting Systems
+        university: Binus University of Jakarta
+        time: 2000 - 2004
+        gpa: "GPA: 3.04"
+        site: https://binus.ac.id
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point        
+
+highlights:
+    title: Professional Summary
+    summary: |
+        Success-oriented System Engineer with 10+ years of industry expertise. <br>
+        Skilled in all stages of Agile software development life cycle. <br> 
+        Competent in identifying, troubleshooting, and resolving problems related to technical computer hardware and software. <br>
+        Proven success in keeping communication during the resolution, and conveying progress updates in the most friendly way possible. <br>
+        Familiar with Microsoft and Linux Ubuntu ecosystem. <br>
+        Proficient in nurturing legacy systems while driving upgrades. <br>
+        High-productive and easy-to-adapt person. <br>
+        A positive can-do attitude and a dedicated learner aiming to enhance lives through innovation.
+
+experiences:
+    title: Experiences
+    info:
+      - role: System Engineer
+        time: Jun 2022 - Present
+        company: Xcidic Pte. Ltd, Singapore • IT Solution Provider
+        site: https://xcidic.com
+        details: |
+            - Led, organised, implemented, and preserved the entire infrastructure environment to serve organisational objectives and operations. Fulfil 98% of the Service Level Agreement (SLA) in most aspects..
+            - Orchestrated requirement gathering session to align with internal and external stakeholders. More than 96% of the requirements have been delivered accordingly and in a timely manner.
+            - Directed a 6-member cross-functional (coders, QA, and UI/UX) team to deploy a cutting-edge mobile app that is secure and reliable, simplifying payment and class management for parents, students, and educators. It contributes up to 40% of the organisation’s annual income.
+            - Established code-base templates and DevSecOps procedures to accelerate the development process up to 50% while making it secure and reliable by implementing Software Composition Analysis (SCA) tools.
+            - Implemented ITSM in product maintenance, which increased the continuity of the strategic partnership with the client by up to 85%.
+      - role: System Engineer
+        time: Apr 2019 - May 2022
+        company: Korea Development Bank - Tifa Finance • Finance & Leasing Company
+        site: https://www.kdbtifa.co.id/en
+        details: |
+            - Explored diverse solutions, evaluating risks, benefits, and impacts, then presented impactful recommendations to the executives while ensuring consistent progress updates. 85% of the inputs were successfully approved and executed.
+            - Enforced advanced technology and systems. On average, there were 3 new advancements executed each year.
+            - Organise workshops and training sessions. Successfully presented the material and gathered positive feedback from the audience.
+            - Managed a 5-member cross-division (coders, QA, and UI/UX) team to build and deliver a comprehensive corporate profile website with a content management system. This channel boosted the number of potential customers by more than 70%.
+            - Directed a 4-member of coder team and collaborated with 7 business partners to deploy and operate a customised ERP system on Xen servers to support the business and operational activities. The system had effectively converted 95% of the entire manual process to digital.
+            - Established a B2B system integration by deploying an application with the microservices concept. The integration reduced the operational costs by 30% annually.        
+      - role: System Support Engineer
+        time: Jan 2012 - Feb 2019
+        company: Manulife Financial - Life Insurance Company
+        site: https://www.manulife.co.id
+        details: |
+            - Spearheaded the continuous improvement of system and process automation. Deployed an automated End-of-Day scheduler that cut the cost of the operators.
+            - Engaged and cultivated partnerships with key stakeholders to comprehend and fulfil organisational needs. More than 96% of the requirements were delivered accordingly and in a timely manner.
+            - Led a team to execute a core system migration to a data centre in Kuala Lumpur, Malaysia. The new environment had enhanced the system’s performance by up to 25% compared to the previous environment.
+            - Published a revamped responsive application that serves retail customers using various devices. The channel increased sales lead generation by 35%.
+      - role: Technical Analyst
+        time: Nov 2005 - Jan 2012
+        company: Mega Auto Finance - Motorcycle Leasing Company
+        site: http://www.maf.co.id
+        details: |
+            - Developed, architected, and executed robust IT infrastructure. Successfully implemented server ecosystem by using VMware.
+            - Collaborated with cross-functional teams to deliver and deploy an upgraded core system. It supported 98% of the entire business process for both retail customers and internal back-office users.
+            - Published enhancements to improve payment collection processing time to less than 0.5 second on average.
+
+skills-tech:
+    title: Technical Skills
+    toolset:
+      - group: "System" 
+        name: "Windows, Linux Ubuntu"
+        level: 95%
+
+      - group: "Language"
+        name: "SQL, C#, TypeScript, JavaScript, HTML, CSS, VB"
+        level: 80%
+
+      - group: "Database"
+        name: "SQL Server, Oracle, MySQL, PostgreSQL"
+        level: 90%
+
+      - group: "Framework"
+        name: ".Net, MVC, React.js, Node.js"
+        level: 80%
+
+      - group: "Environment"
+        name: "SSMS, Ms. Visual Studio, VS. Code, PL/SQL"
+        level: 85%
+
+      - group: "Utilities App"
+        name: "IIS, VMware, XCP-ng, WinBox"
+        level: 90%
+
+      - group: "Collaboration & Cloud services"
+        name: "Github, M65, Google Workspace, Jira, Azure Active Directory, AWS"
+        level: 90%
+
+skills-attributes:
+    title: Skills Attributes
+    skill:
+      - title: Analysis skill
+        desc: "Solid understanding of translating requirements into applicable solutions; Perform effective troubleshooting in all cases and properly solve the issue by applying best practices methods that will hold for the longest time possible"
+
+      - title: Problem-solving skill
+        desc: "A broad range of experience in applying best practise approaches to come up with creative workaround solutions; Demonstrated success in maintaining legacy systems during upgrades"
+
+      - title: Management skill
+        desc: "Adept at managing the priorities of the product/service roadmap and backlog; Competent in delivering projects using the Agile method, as proven by completing projects that convert into products/services"
+
+      - title: Organization skill
+        desc: "Confident in managing the expectations of users and stakeholders; Capable of establishing collaboration between teams, departments, and senior management"
+
+      - title: Interpersonal skill
+        desc: "Proven ability to build stakeholder and user engagement; Oversee the implementation of product changes and communicate the impact to stakeholders, users, customers, and teams"
+
+      - title: Communication skill
+        desc: "Good written and verbal communication skills; Competent languages: English (Professional), Bahasa (Native)"
+
+achievements:
+    title: Portfolios
+    contributions:
+      - desc: "Led and organised a team to deliver a seamless, robust, and secure mobile application that facilitates payment and class management across parents, students, and educators in the Singapore region"
+        links:
+          - url: https://play.google.com/store/apps/details?id=com.tuut
+            urldesc: Google PlayStore
+            urlatt:
+          - url: https://apps.apple.com/sg/app/tuut/id6446396937
+            urldesc: Apple AppStore
+            urlatt:
+      - desc: "Developed and implemented a performance monitoring dashboard called ikankita.org using SQL Server, .Net core, and Google Data Studio"
+        links:
+          - url: https://ikankita.org
+            urldesc: ikankita.org
+            urlatt:
+      - desc: "Orchestrated a team to deploy a company profile website complete with its content management system"
+        links:
+          - url: https://www.kdbtifa.co.id/en
+            urldesc: kdbtifa.co.id
+            urlatt:
+          - url: https://www.kdbtifa.co.id/backend/backend/auth/signin
+            urldesc: CMS
+            urlatt:
+      - desc: "Administered a customised ERP system during an upgrade process, including providing a staging site for trial"
+        links:
+          - url: http://202.157.189.196:7799
+            urldesc: ERP System
+            urlatt: |
+              User ID: herryzh1 <br>
+              Password: H3l2ryzh07~
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
